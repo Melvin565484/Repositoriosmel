@@ -1,0 +1,2 @@
+C:\Repositoriosmel\Libreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Repositoriosmel\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
